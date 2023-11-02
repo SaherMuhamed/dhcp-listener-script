@@ -7,7 +7,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)  ![Windows](https://img.shields.io/badge/Windows-0078D4.svg?style=for-the-badge&logo=Windows&logoColor=white)
 
 <hr />
-This Python script, dhcp_listener.py, is a network packet sniffer that captures DHCP (Dynamic Host Configuration Protocol) packets on your network and extracts information from these packets, such as the hostname, vendor ID, requested IP address, and the device's MAC address. It can help you monitor and log DHCP activity on your network.
+In this Python script, is a network packet sniffer that captures DHCP (Dynamic Host Configuration Protocol) packets on your network and extracts information from these packets, such as the hostname, vendor ID, requested IP address, and the device's MAC address. It can help you monitor and log DHCP activity on your network.
 
 ## Prerequisites
 - Python 3.0 or later
